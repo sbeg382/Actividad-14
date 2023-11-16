@@ -1,0 +1,60 @@
+body {
+    background-color: #D2F7FF;
+   }
+
+header {
+    background-color: #A861FD;
+    color: #fff;
+    text-align: center;
+    padding: 15px 20px;
+   }
+
+#titulo {
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+#menuPrincipal {
+    background-color: #C18EFF;
+   }
+   
+nav ul {
+    list-style: none;
+    padding: 0px;
+   }
+
+#menuPrincipal ul li {
+    display: inline;
+    margin: 0px 15px;
+   }
+
+.enlaceMenuPrincipal {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+   }
+
+.tituloSeccion {
+    background-color: #A861FD;
+    color: #fff;
+    padding: 10px;
+   }
+
+   article {
+    border: 1px solid rgb(116, 246, 255);
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+   }
+
+   footer {
+    background-color: #C18EFF;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+   }
+   
+   
